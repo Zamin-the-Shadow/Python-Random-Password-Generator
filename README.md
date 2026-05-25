@@ -35,24 +35,24 @@ Generated Password: A@7kL#2pQ!
 ```bash
 random-password-generator/
 │
-├── password_generator.py
+├── Project3.py
 └── README.md
 ```
 
 ## ▶️ Run the Project
 1. Clone the repository
 ```bash
-git clone https://github.com/Zamin=the-Shadow/python-random-password-generator.git
+git clone https://github.com/Zamin=the-Shadow/Python-Random-Password-Generator.git
 ```
 
 2. Navigate to the project folder
 ```bash
-cd python-random-password-generator
+cd Python-Random-Password-Generator
 ```
 
 3. Run the Python file
 ```bash
-python password_generator.py
+python Project3.py
 ```
 
 ## 🎯 Learning Outcomes
