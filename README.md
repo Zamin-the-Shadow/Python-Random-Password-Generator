@@ -42,7 +42,7 @@ random-password-generator/
 ## ▶️ Run the Project
 1. Clone the repository
 ```bash
-git clone https://github.com/Zamin=the-Shadow/Python-Random-Password-Generator.git
+git clone https://github.com/Zamin-the-Shadow/Python-Random-Password-Generator.git
 ```
 
 2. Navigate to the project folder
